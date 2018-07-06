@@ -1,0 +1,22 @@
+{
+  "name": "krypteringnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevan14/MP2-kryptering.git"
+  },
+  "keywords": [
+    "kryptering"
+  ],
+  "author": "Kennet og Kasper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevan14/MP2-kryptering/issues"
+  },
+  "homepage": "https://github.com/kevan14/MP2-kryptering#readme"
+}
